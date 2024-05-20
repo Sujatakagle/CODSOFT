@@ -1,0 +1,31 @@
+.container {
+    text-align: center;
+}
+h1 {
+    text-decoration: underline;
+    color: brown;
+  
+}
+table{
+    margin:auto;
+}
+input {
+    border-radius: 10px;
+    font-size: 34px;
+    margin-bottom: 10px;
+    border:6px solid black'
+}  
+
+button {
+    border-radius: 20px;
+    width: 102px;
+    height: 58px;
+    background-color:black;
+    color: white;
+}
+.box{
+    background-color: lightcoral;
+    padding: 24px;
+    border-radius: 53px;
+    display:inline-block;
+}
